@@ -134,8 +134,6 @@ pytoolconfig==1.2.5
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
 PyWavelets==1.4.1
-pywin32==306
-pywin32-ctypes==0.2.2
 PyYAML==6.0.1
 pyzmq==25.1.1
 QDarkStyle==3.1
